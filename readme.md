@@ -1,7 +1,9 @@
+# 📣📣📣 I've launched a new project for all you rekt degens out there: https://jobstash.xyz , a job aggregator for all jobs in crypto.
+Check out the launch announcement at https://twitter.com/jobstash_xyz/status/1631319596228567041 and join the telegram at https://telegram.me/jobstash
+
 
 # Binance Alpha Bot
 
-  
 
 I built this bot in my spare time between February 2021 and January 2022, and the code was never meant to be shown to anybody. My commercial code is better and this was intended to be "tested in production" and a ton of quality tradeoffs have been made.
 Never ever did I plan to release this publicly, lest I "leak my alpha". Now the alpha is public and the edge is gone, so I would like to show off what I've learned in the last year. 
@@ -211,4 +213,4 @@ I will only accept payments in crypto.
   
 
 ## Do you feel the urge to send me some crypto? 
-   Plz send donations to apebot.eth
+   Plz send donations to duckdegen.eth
